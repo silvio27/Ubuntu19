@@ -18,4 +18,3 @@ how to set a new Ubuntu19
 7. Setup Firefox to login
 8. download Adguard userlist from git then put in firefox
 9. ~~add zsh~~ wait to test
- 

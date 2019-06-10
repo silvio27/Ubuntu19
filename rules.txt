@@ -1,0 +1,50 @@
+zhangzishi.cc##header.header:first-child
+fulibus.net##header.header:first-child
+fulibus.net##.cat
+fulibus.net##.meta
+fulibus.net##.branding, .branding-black
+fulibus.net##.relates, .relates-thumb
+fulibus.net##.post-actions
+fulibus.net##.article-nav
+fulibus.net##.action-share
+fulibus.net##.post-copyright
+fulibus.net##.asb-post-footer
+fulibus.net##.article-tags
+fulibus.net##.article-meta
+fulibus.net##.sidebar
+fulibus.net##.footer
+fulibus.net##.site-search
+fulibus.net##.breadcrumbs
+fulibus.net##.rollbar
+fulibus.net##.title
+yabook.org##.sidebar
+yabook.org##.main_top
+yabook.org##.backtotop
+yabook.org##.footer
+yabook.org##.relates
+yabook.org##.postcon
+yabook.org##.postname
+yabook.org##.singlebar
+yabook.org##.postinfo
+yabook.org##.amzad
+yabook.org##.posttags
+yabook.pipipan.com###footer
+yabook.pipipan.com##.row-fluid, .text-center
+yabook.pipipan.com##.navbar, .navbar-inverse
+yabook.pipipan.com##.widget-box, .collapsed, .help-dialog, .pointer
+yabook.pipipan.com###breadcrumbs
+yabook.pipipan.com###page-content > div.download-box.download-simple-box:nth-child(2)
+yabook.pipipan.com###page-content > div.download-box.download-simple-box:nth-child(4) > ul > li:nth-child(2)
+yabook.pipipan.com###page-content > div.download-box.download-simple-box:nth-child(4) > ul > li:nth-child(3)
+yabook.pipipan.com###page-content > div.download-box.download-simple-box:nth-child(4) > ul > li:last-child
+yabook.pipipan.com###page-content > hr:nth-child(5)
+yabook.pipipan.com##.page-header, .position-relative
+yabook.pipipan.com###page-content > div.download-box.download-simple-box:nth-child(4) > ul > li:first-child > span:last-child
+yabook.pipipan.com###free_down_link > i.icon.ico-normal:first-child
+yabook.pipipan.com##.modal, .fade, .hide, .ui-draggable, .ui-draggable-handle, .in
+zhangzishi.cc##.sidebar
+zhangzishi.cc##.speedbar-wrap
+zhangzishi.cc##.footer
+zhangzishi.cc##.post-views
+zhangzishi.cc##.relates
+zhangzishi.cc##section.container:nth-child(2) > div.content-wrap:first-child > div.content > article.article-content:nth-child(4) > p:last-child
