@@ -27,4 +27,12 @@ how to set a new Ubuntu19
     index-url = https://pypi.tuna.tsinghua.edu.cn/simple
     trusted-host = pypi.tuna.tsinghua.edu.cn
     ```
-12. openpyxl pyautogui opencv-python python-docx flask beautifulsoup4 pyecharts echarts-maps
+12. recommend packages
+    + openpyxl
+    + pyautogui
+    + opencv-python
+    + python-docx
+    + flask
+    + beautifulsoup4
+    + pyecharts
+        + echarts-maps
