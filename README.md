@@ -19,9 +19,9 @@ how to set a new Ubuntu19
 8. download Adguard userlist from git then put in firefox
 9. ~~add zsh~~ wait to test
 10. install pip3 or update pip3 `pip3 install --upgrade pip`
-11. pip源更换
-    根目录创建.pip文件：mkdir ~/.pip
-    创建文件pip.conf：gedit .pip/pip.conf
+11. pip change source
+    make directory: .pip ：mkdir ~/.pip
+    creat file: pip.conf ：gedit .pip/pip.conf
     ```
     [global]
     index-url = https://pypi.tuna.tsinghua.edu.cn/simple
@@ -36,3 +36,6 @@ how to set a new Ubuntu19
     + beautifulsoup4
     + pyecharts
         + echarts-maps
+
+13. ready to update outdate pip `pip3 list --outdate`
+    + use `pip3 install --upgrade pkgname`
