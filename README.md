@@ -39,4 +39,3 @@ how to set a new Ubuntu19
 
 13. ready to update outdate pip `pip3 list --outdate`
     + use `pip3 install --upgrade pkgname`
- 
