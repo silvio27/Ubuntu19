@@ -39,3 +39,11 @@ how to set a new Ubuntu19
 
 13. ready to update outdate pip `pip3 list --outdate`
     + use `pip3 install --upgrade pkgname`
+
+14. install zsh & oh-my-zsh
+    + `sudo apt-get install zsh`
+    + `git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh`
+    + `cp ~/.oh-my-zsh/templates/zshrc.zsh-template ~/.zshrc`
+    + `chsh -s /bin/zsh`
+    + `sudo reboot`
+
