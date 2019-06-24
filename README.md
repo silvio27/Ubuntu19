@@ -47,3 +47,11 @@ how to set a new Ubuntu19
     + `chsh -s /bin/zsh`
     + `sudo reboot`
 
+
+15. after intsall sogoupinyin then CAN NOT OPEN desktop try to repair use the following steps
+    + ctrl+alt+F2
+    + sudo apt update
+    + sudo apt upgrade
+    + sudo apt install -f
+    + sudo apt autoremove
+    + Reboot
